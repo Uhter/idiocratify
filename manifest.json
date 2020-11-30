@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Idiocratify",
+  "description": "Remplace le nom des membres du gouvernement par leurs versions idiocratifiées.",
+  "version": "1",
+  "homepage_url": "https://addons.mozilla.org/fr/firefox/addon/idiocratify/",
+  "icons": {
+      "64": "static/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*"
+      ],
+      "js": [
+        "js/replace.js"
+      ]
+    }
+  ],"browser_action": {
+      "default_icon": {
+      "64": "static/icon.png"
+    },
+      "default_popup": "index.html"
+  }
+}
