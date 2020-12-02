@@ -15,3 +15,5 @@ Chrome ne permet pas par défaut d'installer de module en dehors du Chrome Web S
 4. activant le "Mode développeur" (en haut à droite),
 5. cliquant sur "Charger l'extension non-empaquetée",
 6. sélectionnant le dossier contenant l'application
+
+![alt text](https://github.com/Uhter/idiocratify/blob/main/screenshots/screenshot_1.png)
