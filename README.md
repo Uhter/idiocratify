@@ -19,3 +19,6 @@ Chrome ne permet pas par défaut d'installer de module en dehors du Chrome Web S
 ### Ce que donne la composition du gouvernement sur la [page officielle](https://www.gouvernement.fr/composition-du-gouvernement). Extraits :
 
 ![alt text](https://github.com/Uhter/idiocratify/blob/main/screenshots/screenshot_1.png)
+![alt text](https://github.com/Uhter/idiocratify/blob/main/screenshots/screenshot_2.png)
+![alt text](https://github.com/Uhter/idiocratify/blob/main/screenshots/screenshot_3.png)
+![alt text](https://github.com/Uhter/idiocratify/blob/main/screenshots/screenshot_4.png)
