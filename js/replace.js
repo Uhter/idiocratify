@@ -129,7 +129,7 @@ const replace = [
     "replaceWith": "Castagnettes"
   },
   {
-    "name": "Éric Zemmour",
+    "name": "Éric Zemmour|Eric Zemmour",
     "replaceWith": "Éricorinne Zemmour"
   },
 ];
