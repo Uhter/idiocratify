@@ -17,10 +17,6 @@ const replace = [
     "replaceWith": "Idiocrate Ier"
   },
   {
-    "name": "président|Président",
-    "replaceWith": "Idiocrate Ier"
-  },
-  {
     "name": "Barbara Pompili",
     "replaceWith": "Barbara 'Pump it up'"
   },
@@ -111,14 +107,6 @@ const replace = [
   {
     "name": "Ministre",
     "replaceWith": "Idiocrate"
-  },
-  {
-    "name": "député",
-    "replaceWith": "déprouté"
-  },
-  {
-    "name": "Député",
-    "replaceWith": "Déprouté"
   },
   {
     "name": "Nicolas Sarkozy",
